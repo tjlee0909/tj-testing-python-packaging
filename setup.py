@@ -13,7 +13,7 @@ def main():
 		packages=['tjtestingpythonpackaging'],
 		download_url='https://github.com/tjlee0909/tj-testing-python-packaging/releases/tag/v0.1.1',
 		install_requires=[
-			'requests == 2.0',
+			'requests == 2.20.0',
 		],
 	)
 
